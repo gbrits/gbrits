@@ -1,7 +1,7 @@
 ```js
 const who = {
   full_name: 'Grant Brits',
-  business: 'Maximus Agency Pty Ltd'
+  business: 'Maximus Agency Pty Ltd',
   role: 'Director',
 }
 ```
